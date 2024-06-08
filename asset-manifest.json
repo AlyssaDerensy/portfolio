@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.777463e9.chunk.css",
-    "main.js": "/portfolio/static/js/main.b0ba9cee.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b0ba9cee.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.fb54f368.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fb54f368.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.ec468f81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.ec468f81.js.map",
     "static/css/2.b183c589.chunk.css": "/portfolio/static/css/2.b183c589.chunk.css",
@@ -118,7 +118,7 @@
     "static/media/pinkTheme-girl.154b10ae.svg": "/portfolio/static/media/pinkTheme-girl.154b10ae.svg",
     "static/media/placeholder.3fcbbdcd.png": "/portfolio/static/media/placeholder.3fcbbdcd.png",
     "static/media/postgresql.f0f3d0b9.svg": "/portfolio/static/media/postgresql.f0f3d0b9.svg",
-    "static/media/power_bi.7a4f4c21.svg": "/portfolio/static/media/power_bi.7a4f4c21.svg",
+    "static/media/power_bi.334efe11.svg": "/portfolio/static/media/power_bi.334efe11.svg",
     "static/media/premierepro.9211e4a7.svg": "/portfolio/static/media/premierepro.9211e4a7.svg",
     "static/media/purpleTheme-boy.a66d8329.svg": "/portfolio/static/media/purpleTheme-boy.a66d8329.svg",
     "static/media/purpleTheme-girl.593f901e.svg": "/portfolio/static/media/purpleTheme-girl.593f901e.svg",
@@ -157,6 +157,6 @@
     "static/css/2.b183c589.chunk.css",
     "static/js/2.982bf604.chunk.js",
     "static/css/main.777463e9.chunk.css",
-    "static/js/main.b0ba9cee.chunk.js"
+    "static/js/main.fb54f368.chunk.js"
   ]
 }
