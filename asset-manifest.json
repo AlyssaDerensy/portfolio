@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8c80c424.chunk.css",
-    "main.js": "/portfolio/static/js/main.1099008c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.1099008c.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.2ef0c923.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2ef0c923.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.ec468f81.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.ec468f81.js.map",
     "static/css/2.b183c589.chunk.css": "/portfolio/static/css/2.b183c589.chunk.css",
@@ -96,7 +96,7 @@
     "static/media/java.e9ccff93.svg": "/portfolio/static/media/java.e9ccff93.svg",
     "static/media/javascript.f84ec710.svg": "/portfolio/static/media/javascript.f84ec710.svg",
     "static/media/julia.2f794baf.svg": "/portfolio/static/media/julia.2f794baf.svg",
-    "static/media/knime.d70e3a35.svg": "/portfolio/static/media/knime.d70e3a35.svg",
+    "static/media/knime.279281a7.svg": "/portfolio/static/media/knime.279281a7.svg",
     "static/media/kotlin.bf3c189f.svg": "/portfolio/static/media/kotlin.bf3c189f.svg",
     "static/media/lightroom.424c8312.svg": "/portfolio/static/media/lightroom.424c8312.svg",
     "static/media/markdown.6fca45ee.svg": "/portfolio/static/media/markdown.6fca45ee.svg",
@@ -159,6 +159,6 @@
     "static/css/2.b183c589.chunk.css",
     "static/js/2.4f4d905e.chunk.js",
     "static/css/main.8c80c424.chunk.css",
-    "static/js/main.1099008c.chunk.js"
+    "static/js/main.2ef0c923.chunk.js"
   ]
 }
